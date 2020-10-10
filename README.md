@@ -1,5 +1,7 @@
 # Wind farm production analysis
 
+The purpose of this repository is to explore different approaches for modeling time series data on wind farm energy production.
+
 I created 3 main pieces of code: a Jupyter notebook, a Python file for the estimator class and a pytest test file. 
 
 1. The notebook called *Wind farm production forecast* contains the initial data exploration, data preparation, model selection and performance assessment parts.
